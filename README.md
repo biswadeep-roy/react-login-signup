@@ -2,6 +2,9 @@
 
 Welcome to the React Authentication Template with MongoDB – a robust full-stack solution for implementing user authentication in your web applications. This template is built using popular technologies such as React, Node.js, Express.js, and MongoDB, providing a secure and scalable foundation for your authentication needs.
 
+![image](https://github.com/biswadeep-roy/react-login-signup/assets/74821633/5bc75a91-2d73-49c2-ac01-21ca20697ccd)
+
+
 ## Features
 
 - **Login Page**: Users can securely log in with their credentials.
