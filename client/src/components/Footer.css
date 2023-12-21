@@ -1,0 +1,24 @@
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center; /* Added missing semicolon */
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .social-icons img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .social-icons img:hover {
+    transform: scale(1.2);
+  }
+  

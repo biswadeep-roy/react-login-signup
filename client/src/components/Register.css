@@ -1,0 +1,85 @@
+/* Login.css */
+/*
+body {
+    background: linear-gradient(to right, #d9e3ed, #8b8d91);
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    color: #fff; /* Set text color to white for better contrast */
+  
+  
+    */
+    .MDBContainer {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .MDBCard {
+      background: linear-gradient(to right, #ffffff, #f0f0f0); /* Adjust the gradient colors */
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      padding: 40px;
+      animation: fadeIn 0.5s ease;
+    }
+    
+    .MDBInput input,
+    .MDBRow label,
+    .font-label,
+    .col.text-center h2 {
+      color: #000; /* Set the text color to black */
+    }
+    
+    .divider:after,
+    .divider:before {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: #ccc;
+    }
+    
+    .btn-primary {
+      background-color: #3498db; /* Change to your preferred color */
+      border-color: #3498db;
+      color: #fff; /* Set text color to white for better contrast */
+      font-size: 16px; /* Adjust the font size as needed */
+      padding: 10px 20px; /* Adjust the padding for height and width */
+      border-radius: 8px; /* Add some border-radius for rounded corners */
+      transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.2s ease;
+    }
+    
+    .btn-primary:hover {
+      background-color: #2980b9; /* Change to a slightly darker shade if needed */
+      border-color: #2980b9;
+      transform: scale(1.05);
+    }
+    
+    .text-danger {
+      color: #d9534f;
+    }
+    /* Add this to your CSS file */
+  .text-black {
+    color: #000; /* Set text color to black */
+  }
+  
+  /* Add this to your CSS file */
+  .text-black {
+    color: #000; /* Set text color to black */
+  }
+  
+  .form-check-label {
+    color: #000;
+  }
+  
+  
+    /* Optional: Add animations for a more interactive UI */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+    
