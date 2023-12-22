@@ -34,6 +34,7 @@ Welcome to the React Authentication Template with MongoDB – a robust full-stac
    git clone https://github.com/biswadeep-roy/react-login-signup.git
    cd react-login-signup
    ```
+   
 2. Install Dependencies:
    # Install frontend dependencies
    ```bash
