@@ -7,7 +7,7 @@ Welcome to the React Authentication Template with MongoDB – a robust full-stac
 
 ## Features
 
-- **Login Page**: Users can securely log in with their credentials.
+- **Login Page**: Users can securely log in with their credentials..
 - **Signup Page**: New users can create accounts with ease.
 - **MongoDB Backend**: Utilizes MongoDB for efficient and reliable data storage.
 - **Password Hashing**: Implements secure password hashing to enhance user account security..
